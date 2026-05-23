@@ -58,6 +58,10 @@ export const Navbar = () => {
             <MobileNavLink href="/alerts">Alerts</MobileNavLink>
             <MobileNavLink href="/transactions">Transactions</MobileNavLink>
             <MobileNavLink href="/ai-insights">AI Insights</MobileNavLink>
+            <MobileNavLink href="/predictive-timeline">Predictive Timeline</MobileNavLink>
+            <MobileNavLink href="/persona-filling">Persona Filling</MobileNavLink>
+            <MobileNavLink href="/homomorphic-encryption">Homomorphic Encryption</MobileNavLink>
+            <MobileNavLink href="/zero-knowledge-proof">Zero Knowledge Proof</MobileNavLink>
             <MobileNavLink href="/profile">Profile</MobileNavLink>
             <MobileNavLink href="/settings">Settings</MobileNavLink>
             <MobileNavLink href="/admin-review">Admin Review</MobileNavLink>
